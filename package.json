@@ -1,0 +1,19 @@
+{
+  "name": "fire-html-event",
+  "version": "1.0.0",
+  "description": "Pass an element and the event name to fire. The event is then fired.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthewLarner/fire-html-event.git"
+  },
+  "author": "Matt Larner <matt.larner.dev@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatthewLarner/fire-html-event/issues"
+  },
+  "homepage": "https://github.com/MatthewLarner/fire-html-event#readme"
+}
