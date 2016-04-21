@@ -12,4 +12,4 @@ function fireEvent(element, name){
     }
 }
 
-module.exporsts = fireEvent;
+module.exports = fireEvent;
