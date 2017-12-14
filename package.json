@@ -1,6 +1,6 @@
 {
   "name": "fire-html-event",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Pass an element and the event name to fire. The event is then fired.",
   "main": "index.js",
   "scripts": {
